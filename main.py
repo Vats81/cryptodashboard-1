@@ -14,7 +14,7 @@ st.write(
 st.markdown('''# **Binance Price App**
 A simple cryptocurrency price app pulling price data from *Binance API*.
 ''')
-
+realans = ['', 'abc', 'edf']
 st.header('**Selected Price**')
 
 # Load market data from Binance API
